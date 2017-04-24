@@ -1,6 +1,5 @@
 # Tic Tac Toe
-* A remake of the classic game.
-* Playable in the command line.
+Personal Project. A remake of the classic game, playable in the command line.
 
 ### Written in:
 * Python
